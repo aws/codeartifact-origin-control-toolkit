@@ -16,8 +16,8 @@ in bulk on packages that have not received the default protection because they p
 This can be achieved by blocking upstream versions for internal packages. The toolkit also supports blocking publishing
 package versions to avoid the creation of a potentially vulnerable mixed state for external packages as well.  
 
-More information can be found on the [origin control feature documentation](placeholder) as well as in the 
-[blog post](URL) announcing the availability of this toolkit. 
+More information can be found on the [origin control feature documentation](https://docs.aws.amazon.com/codeartifact/latest/ug/package-origin-controls.html) as well as in the 
+[blog post](https://aws.amazon.com/blogs/devops/tighten-your-package-security-with-codeartifact-package-origin-control-toolkit/) announcing the availability of this toolkit. 
 
 ## Structure
 
@@ -242,9 +242,8 @@ python apply_package_configurations.py
 
 ## Links
 
-- [Toolkit release blog post]()
-- [Package Origin Configuration documentation]() 
-- [Feature announcement blog post]() 
+- [Toolkit release blog post](https://aws.amazon.com/blogs/devops/tighten-your-package-security-with-codeartifact-package-origin-control-toolkit/)
+- [Package Origin Configuration documentation](https://docs.aws.amazon.com/codeartifact/latest/ug/package-origin-controls.html) 
 
 ## License
 This software is released under the Apache 2.0 license.
