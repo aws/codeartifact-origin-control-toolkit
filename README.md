@@ -4,7 +4,7 @@
 
 [AWS CodeArtifact](https://docs.aws.amazon.com/codeartifact/index.html) is a fully managed artifact repository service
 that makes it easy for organizations to securely store and share software packages used for application development. 
-On [launch date] we introduced a feature called “Package Origin Control” which allows customers to protect themselves 
+On Jul14 2022 we introduced a feature called “Package Origin Control” which allows customers to protect themselves 
 against “dependency substitution“ or 
 “[dependency confusion](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)" attacks.
 
